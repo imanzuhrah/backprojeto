@@ -1,4 +1,3 @@
-# backprojeto
 # Back-end do Projeto de TCC de DS
 
 ## Guia de Instalação do Framework Spring Tools (Spring Boot) na IDE Eclipse com imagens:
