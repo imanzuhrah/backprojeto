@@ -5,3 +5,6 @@
 
 ### Equação de N° de Testes/Produtos:
 Q_Teste × Q_Frascos + Estoque_Restante = Q_Total
+
+### Anotações do SpringBoot:
+https://virandoprogramador.com.br/anotacoes-do-spring-boot/
